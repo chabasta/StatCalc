@@ -1,5 +1,3 @@
-# czm-cyclistStatistics
-
 <h2>Popis</h2>
 Na vstupu dostaneme csv soubor se záznamy cyklistů projíždějících kamerami, spočítáme nějaké statistiky a vypíšeme je ve dvou formátech XML, JSON
 
